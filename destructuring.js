@@ -29,4 +29,4 @@ function doubleThem(a, b) {
 }
 
 const l = [p, q] = doubleThem(40, 52);
-console.log(l);
+console.log(...l);

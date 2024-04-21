@@ -3,7 +3,7 @@ function add(num1 = 0, num2 = 0) {
     console.log(num1, num2, sum);
     return sum;
 }
-const result = add();
+const result = add(5);
 console.log(result);
 
 
